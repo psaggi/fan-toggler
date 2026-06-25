@@ -11,3 +11,6 @@ Lessons Learned -
     Claude is pattern matching and comes up with bad solutions (like it did in this case) before settling on a good solution.
     LLMS are trained on info that may be outdated so before going down a rabbit hole, use human judgement and verification.
     Multiple ways to solve a problem - avoid using ways that become significant security loopholes. 
+
+Requires
+    Python, Playwright - use pip install to install them
